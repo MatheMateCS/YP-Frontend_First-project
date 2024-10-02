@@ -276,7 +276,7 @@
   width: 877px;
   height: 877px;
   position: absolute;
-  top: 2;
+  top: 2px;
   right: -210px;
   z-index: 1;
   background-image: url("../images/kaufman-triangle.svg");
@@ -299,7 +299,7 @@
 
 .footer__column_content_copyright {
   flex-basis: 711px;
-  display: flexbox;
+  display: flex;
   position: relative;
   flex-direction: column;
 }
