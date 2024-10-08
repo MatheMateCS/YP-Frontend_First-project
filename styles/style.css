@@ -129,7 +129,7 @@
 }
 
 .digits {
-  padding: 100px 0;
+  padding: 0;
  }
 
 .section-title {
@@ -357,5 +357,6 @@
 .footer__social-icon {
   width: 16px;
   height: 16px;
+  margin: auto;
   margin-right: 10px;
 }
